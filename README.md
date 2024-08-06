@@ -1,1 +1,0 @@
-# Trabajo_Python_Oma-aGarcia

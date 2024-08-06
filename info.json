@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "ventas": [
+            {
+                "fechaVenta": "12-122024",
+                "nombreCliente": "freyler",
+                "nombreEmpleado": "camilo",
+                "producto": "papa"
+            },
+            {
+                "fechaVenta": "12-12-2022",
+                "nombreCliente": "fabian",
+                "nombreEmpleado": "andres",
+                "producto": "limon"
+            },
+            {
+                "fechaVenta": "23-11-1999",
+                "nombreCliente": "freiler",
+                "nombreEmpleado": "jerxon",
+                "producto": "huevos"
+            }  
+        ]
+    }
+]
