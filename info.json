@@ -5,21 +5,42 @@
             {
                 "fechaVenta": "12-122024",
                 "nombreCliente": "freyler",
+                "direccionCliente": "barco 23n",
                 "nombreEmpleado": "camilo",
-                "producto": "papa"
+                "producto": "papa",
+                "cantProducto": "2",
+                "preProducto": "1500"
             },
             {
-                "fechaVenta": "12-12-2022",
-                "nombreCliente": "fabian",
-                "nombreEmpleado": "andres",
-                "producto": "limon"
+                "fechaVenta": "12-122024",
+                "nombreCliente": "freyler",
+                "direccionCliente": "barco 23n",
+                "nombreEmpleado": "camilo",
+                "producto": "yuca",
+                "cantProducto": "2",
+                "preProducto": "1500"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "compras": [
+            {
+                "fechaVenta": "12-122024",
+                "nombreProveedor": "freyler",
+                "contactoProveedor": "3209922420",
+                "productoComprado": "papa",
+                "cantProductoComprado": "3",
+                "preProductoComprado": "2000"
             },
             {
-                "fechaVenta": "23-11-1999",
-                "nombreCliente": "freiler",
-                "nombreEmpleado": "jerxon",
-                "producto": "huevos"
-            }  
+                "fechaVenta": "12-12-1999",
+                "nombreProveedor": "winger",
+                "contactoProveedor": "3203457689",
+                "productoComprado": "limon",
+                "cantProductoComprado": 4,
+                "preProductoComprado": 3000
+            }
         ]
     }
 ]
