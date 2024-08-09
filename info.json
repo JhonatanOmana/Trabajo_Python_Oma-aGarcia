@@ -7,7 +7,7 @@
                 "nombreCliente": "freyler",
                 "direccionCliente": "barco 23n",
                 "nombreEmpleado": "camilo",
-                "producto": "papa",
+                "producto": "pan de bono",
                 "cantProducto": "2",
                 "preProducto": "1500"
             },
@@ -16,7 +16,7 @@
                 "nombreCliente": "freyler",
                 "direccionCliente": "barco 23n",
                 "nombreEmpleado": "camilo",
-                "producto": "yuca",
+                "producto": "pan de yuca",
                 "cantProducto": "2",
                 "preProducto": "1500"
             }
@@ -29,7 +29,7 @@
                 "fechaVenta": "12-122024",
                 "nombreProveedor": "freyler",
                 "contactoProveedor": "3209922420",
-                "productoComprado": "papa",
+                "productoComprado": "calentano",
                 "cantProductoComprado": "3",
                 "preProductoComprado": "2000"
             },
@@ -37,7 +37,7 @@
                 "fechaVenta": "12-12-1999",
                 "nombreProveedor": "winger",
                 "contactoProveedor": "3203457689",
-                "productoComprado": "limon",
+                "productoComprado": "pastel de vainilla",
                 "cantProductoComprado": 4,
                 "preProductoComprado": 3000
             }
